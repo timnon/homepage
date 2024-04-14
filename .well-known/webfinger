@@ -1,0 +1,9 @@
+{ "subject": "acct:TimNonner@mastodon.social", "aliases": [ 
+"https://mastodon.social/@TimNonner", 
+"https://mastodon.social/users/TimNonner" ], "links": [ { "rel": 
+"http://webfinger.net/rel/profile-page", "type": "text/html", "href": 
+"https://mastodon.social/@TimNonner" }, { "rel": "self", "type": 
+"application/activity+json", "href": 
+"https://mastodon.social/users/TimNonner" }, { "rel": 
+"http://ostatus.org/schema/1.0/subscribe", "template": 
+"https://mastodon.social/authorize_interaction?uri={uri}" } ] }

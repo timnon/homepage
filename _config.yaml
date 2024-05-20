@@ -1,8 +1,1 @@
-plugins:
-  - jekyll/mastodon_webfinger
-
-webfinger:
-  username: "timn"
-  domain: "mastodon.social"
-
-#include: [".well-known"]
+include: [".well-known"]
